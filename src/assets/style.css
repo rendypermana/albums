@@ -1,0 +1,17 @@
+.pencarian{
+    background-color: var(--white);
+    margin-bottom: 20px;
+    padding: 15px;
+}
+.pencarian label{
+    padding-bottom: 10px;
+    line-height: 40px;
+}
+.form-cari input{
+    padding: 10px 5px 10px 5px!important;
+    background-color: var(--white)!important;
+}
+.loading{
+    position: relative;
+    text-align: center;
+}
